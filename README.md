@@ -6,6 +6,33 @@
   </p>
 
   <br>
-  <img src="https://chatgpt.com/s/m_697d281bd8f88191b8d1c1498b248894" width="200" />
-</div>
+  
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Beginner+But+But....;Hunter+Mindset;Minimal+but+Deadly" />
+</p>
+
+<!-- TAGLINE -->
+<p align="center">
+  Silent. Precise. Relentless.
+</p>
+
+---
+
+<!-- TECH STACK -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
+</p>
+
+---
+
+
+
+
+
+<!-- VISITORS COUNT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amitroxx&color=00ffcc&style=flat" />
+</p>
+
 
